@@ -1,0 +1,18 @@
+h1{text-align: center;
+   font-size: 5em;
+   font-weight: bold;
+   text-shadow: 10px 4px 8px #135;
+   color: #177;
+    }
+p{
+  font-size: 25px;
+  font-style: italic;
+  color: #fff;
+}
+body{background-image: url("http://www.wallpaperbetter.com/wallpaper/280/857/216/ford-gt-4k-2017similar-car-wallpapers-4K-middle-size.jpg");
+
+     background-size: 100% ;
+      }
+p.image{text-align: right;
+
+        }
