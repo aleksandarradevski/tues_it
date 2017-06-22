@@ -17,8 +17,8 @@ body{background-image: url("http://www.wallpaperbetter.com/wallpaper/280/857/216
 p.image{text-align: right;
 
         }
-@media screen and (max-width:400px) {
+@media screen and (max-width: device-width) {
     @-ms-viewport{
-        width:320px;
+        width:device-width;
     }
 }
