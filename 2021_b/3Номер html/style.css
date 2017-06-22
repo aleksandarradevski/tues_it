@@ -1,4 +1,4 @@
-h1{text-align: center;
+   h1{text-align: center;
    font-size: 5em;
    font-weight: bold;
    text-shadow: 10px 4px 8px #135;
@@ -12,10 +12,16 @@ p{
 body{background-image: url("http://www.wallpaperbetter.com/wallpaper/280/857/216/ford-gt-4k-2017similar-car-wallpapers-4K-middle-size.jpg");
 
      background-size: 100% ;
-     background-repeat: repeat-n;
-    
+
       }
 p.image{text-align: right;
 
         }
+p.Taunus{text-shadow: 10px 2px 4px white;
+         color: #f43;
+         background-color: #51f;
+         margin-top: 20px;
+         margin-right: 200px;
+         padding-top: 10px;
 
+          }
