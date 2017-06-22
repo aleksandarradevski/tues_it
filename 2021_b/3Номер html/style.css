@@ -16,3 +16,6 @@ body{background-image: url("http://www.wallpaperbetter.com/wallpaper/280/857/216
 p.image{text-align: right;
 
         }
+@-ms-viewport{
+  width: device-width;
+}
