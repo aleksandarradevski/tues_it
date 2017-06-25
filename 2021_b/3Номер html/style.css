@@ -1,23 +1,40 @@
-   h1{text-align: center;
+h1{
+   text-align: center;
    font-size: 5em;
    font-weight: bold;
    text-shadow: 10px 4px 8px #135;
    color: #177;
-    }
+}
 p{
   font-size: 25px;
   font-style: italic;
   color: #fff;
 }
+body{
+     background-image: url("https://kr.best-wallpaper.net/wallpaper/3840x2160/1609/Ford-GT-supercar-in-high-speed_3840x2160.jpg");
 
-p.image{text-align: right;
+     background-size: cover ;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 100%;
 
-        }
-p.Taunus{text-shadow: 10px 2px 4px white;
+}
+p.image{
+        text-align: right;
+
+}
+p.Taunus{
+         text-shadow: 10px 2px 4px white;
          color: #f43;
          background-color: #51f;
+
          margin-top: 20px;
          margin-right: 200px;
          padding-top: 10px;
 
-          }
+}
+html{
+     width: 100%;
+     height: 100%;
+}
